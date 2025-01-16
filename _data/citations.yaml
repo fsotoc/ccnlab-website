@@ -1,39 +1,864 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1371/journal.pcbi.1010819
+- id: pmid:38381300
+  title: 'Face shape and motion are perceptually separable: Support for a revised
+    model of face processing.'
+  authors:
+  - Emily Renae Martin
+  - Jason S Hays
+  - Fabian A Soto
+  publisher: Psychonomic bulletin & review
+  date: '2024-02-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38381300
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:38839717
+  title: Toward a mechanistic understanding of the role of error monitoring and memory
+    in social anxiety.
+  authors:
+  - Kianoosh Hosseini
+  - Jeremy W Pettit
+  - Fabian A Soto
+  - Aaron T Mattfeld
+  - George A Buzzell
+  publisher: Cognitive, affective & behavioral neuroscience
+  date: '2024-06-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38839717
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:38557028
+  title: Multidimensional signal detection modeling reveals Gestalt-like perceptual
+    integration of face emotion and identity.
+  authors:
+  - S Sanaz Hosseini
+  - Fabian A Soto
+  publisher: Emotion (Washington, D.C.)
+  date: '2024-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38557028
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:38336169
+  title: Perceptual Observer Modeling Reveals Likely Mechanisms of Face Expression
+    Recognition Deficits in Depression.
+  authors:
+  - Fabian A Soto
+  - Christopher G Beevers
+  publisher: Biological psychiatry. Cognitive neuroscience and neuroimaging
+  date: '2024-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38336169
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s42113-024-00227-3
+  title: Leveraging Psychophysics to Infer the Mechanisms of Encoding Change in Vision
+  authors:
+  - Jason S. Hays
+  - Fabian A. Soto
+  publisher: Computational Brain &amp; Behavior
+  date: '2024-11-08'
+  link: https://doi.org/g8z7w4
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:37473985
+  title: Why is the Rescorla-Wagner model so influential?
+  authors:
+  - Fabian A Soto
+  - Edgar H Vogel
+  - Yerco E Uribe-Bahamonde
+  - Omar D Perez
+  publisher: Neurobiology of learning and memory
+  date: '2023-07-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37473985
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/9781108902724.011
+  title: Encoding Models in Neuroimaging
+  authors:
+  - "Fabi\xE1n A. Soto"
+  - F. Gregory Ashby
+  publisher: New Handbook of Mathematical Psychology
+  date: '2023-04-30'
+  link: https://doi.org/g8z7w5
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:36163609
+  title: 'Sensitivity vs. awareness curve: A novel model-based analysis to uncover
+    the processes underlying nonconscious perception.'
+  authors:
+  - Ali Pournaghdali
+  - Bennett L Schwartz
+  - Jason Hays
+  - Fabian A Soto
+  publisher: Psychonomic bulletin & review
+  date: '2022-09-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36163609
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC9894561
+  title: Improving the validity of neuroimaging decoding tests of invariant and configural
+    neural representation
+  authors:
+  - Fabian A Soto
+  - Sanjay Narasiwodeyar
+  publisher: PLoS computational biology
+  date: '2023-01-23'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9894561/
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/jov.22.14.3940
+  title: Changes in Bias and not Sensitivity Underlie Increases in the Accuracy of
+    Perceptual Decisions After Errors and Uncertainty
+  authors:
+  - Ali Pournaghdali
+  - Craig McDonald
+  - Fabian Soto
+  - George Buzzell
+  publisher: Journal of Vision
+  date: '2022-12-05'
+  link: https://doi.org/g8z7w6
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:35710303
+  title: Subsampling of cues in associative learning.
+  authors:
+  - Omar D Perez
+  - Edgar H Vogel
+  - Sanjay Narasiwodeyar
+  - Fabian A Soto
+  publisher: Learning & memory (Cold Spring Harbor, N.Y.)
+  date: '2022-06-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35710303
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:34472882
+  title: A computational account of the mechanisms underlying face perception biases
+    in depression.
+  authors:
+  - Fabian A Soto
+  - Rochelle A Stewart
+  - Sanaz Hosseini
+  - Jason Hays
+  - Christopher G Beevers
+  publisher: Journal of abnormal psychology
+  date: '2021-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34472882
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32519291
+  title: 'FaReT: A free and open-source toolkit of three-dimensional models and software
+    to study face perception.'
+  authors:
+  - Jason Hays
+  - Claudia Wong
+  - Fabian A Soto
+  publisher: Behavior research methods
+  date: '2020-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32519291
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/jov.20.11.959
+  title: 'Sensitivity vs. awareness curve: a novel model-based analysis to uncover
+    the processes underlying nonconscious perception'
+  authors:
+  - Fabian Soto
+  - Ali Pournaghdali
+  publisher: Journal of Vision
+  date: '2020-10-20'
+  link: https://doi.org/g8z7w7
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33064122
+  title: Adaptation aftereffects reveal how categorization training changes the encoding
+    of face identity.
+  authors:
+  - Fabian A Soto
+  - Karla Escobar
+  - Jefferson Salan
+  publisher: Journal of vision
+  date: '2020-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33064122
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31931662
+  title: Evidence for a dissociation between causal beliefs and instrumental actions.
+  authors:
+  - "Omar D P\xE9rez"
+  - Fabian A Soto
+  publisher: Quarterly journal of experimental psychology (2006)
+  date: '2020-01-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31931662
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31381986
+  title: 'Beyond the "Conceptual Nervous System": Can computational cognitive neuroscience
+    transform learning theory?'
+  authors:
+  - Fabian A Soto
+  publisher: Behavioural processes
+  date: '2019-08-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31381986
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/19.10.87d
+  title: Linking general recognition theory and classification images to study invariance
+    and configurality of visual representations
+  authors:
+  - Fabian A Soto
+  publisher: Journal of Vision
+  date: '2019-09-06'
+  link: https://doi.org/g8z7w8
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/19.10.6a
+  title: What Can Be Inferred About Neural Population Codes from Psychophysical and
+    Neuroimaging Data?
+  authors:
+  - Fabian Soto
+  - Justin L. Gardner
+  - Rosie Cowell
+  - Kara Emery
+  - Jason Hays
+  - Fabian A. Soto
+  publisher: Journal of Vision
+  date: '2019-09-06'
+  link: https://doi.org/g8z7w9
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/19.10.7
+  title: What can be inferred about changes in neural population codes from psychophysical
+    threshold studies?
+  authors:
+  - Jason Hays
+  - Fabian A. Soto
+  publisher: Journal of Vision
+  date: '2019-09-06'
+  link: https://doi.org/g8z7xb
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/19.10.37a
+  title: What can be inferred about independence and invariance of brain representations
+    from fMRI decoding studies?
+  authors:
+  - Sanjay Narasiwodeyar
+  - Fabian A. Soto
+  publisher: Journal of Vision
+  date: '2019-09-06'
+  link: https://doi.org/g8z7xc
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/19.10.7a
+  title: What can be inferred about invariance of visual representations from fMRI
+    decoding studies?
+  authors:
+  - Fabian A. Soto
+  - Sanjay Narasiwodeyar
+  publisher: Journal of Vision
+  date: '2019-09-06'
+  link: https://doi.org/g8z7xd
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31152373
+  title: Categorization training changes the visual representation of face identity.
+  authors:
+  - Fabian A Soto
+  publisher: Attention, perception & psychophysics
+  date: '2019-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31152373
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30806809
+  title: Novel representations that support rule-based categorization are acquired
+    on-the-fly during category learning.
+  authors:
+  - Fabian A Soto
+  - F Gregory Ashby
+  publisher: Psychological research
+  date: '2019-02-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30806809
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27894212
+  title: 'Human instrumental performance in ratio and interval contingencies: A challenge
+    for associative theory.'
+  authors:
+  - "Omar D P\xE9rez"
+  - Michael Rf Aitken
+  - Peter Zhukovsky
+  - "Fabi\xE1n A Soto"
+  - Gonzalo P Urcelay
+  - Anthony Dickinson
+  publisher: Quarterly journal of experimental psychology (2006)
+  date: '2018-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27894212
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30273337
+  title: Linking signal detection theory and encoding models to reveal independent
+    neural representations from neuroimaging data.
+  authors:
+  - Fabian A Soto
+  - Lauren E Vucovich
+  - F Gregory Ashby
+  publisher: PLoS computational biology
+  date: '2018-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30273337
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/18.10.607
+  title: Are face identity and expression processed independently or interactively?
+    A study controlling stimulus and decisional factors
+  authors:
+  - Claudia Wong
+  - Fabian Soto
+  publisher: Journal of Vision
+  date: '2018-09-01'
+  link: https://doi.org/g8z7xf
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/18.10.1094
+  title: Comparing the perceptual separability of familiar and unfamiliar face dimensions
+  authors:
+  - S. Sanaz Hosseini
+  - Fabian Soto
+  publisher: Journal of Vision
+  date: '2018-09-01'
+  link: https://doi.org/g8z7xg
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/18.10.559
+  title: Does categorization training change the encoding of face identity?
+  authors:
+  - Fabian Soto
+  publisher: Journal of Vision
+  date: '2018-09-01'
+  link: https://doi.org/g8z7xh
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30165807
+  title: Exploring the Effect of Stimulus Similarity on the Summation Effect in Causal
+    Learning.
+  authors:
+  - "Omar D P\xE9rez"
+  - "Ren\xE9 San Mart\xEDn"
+  - "Fabi\xE1n A Soto"
+  publisher: Experimental psychology
+  date: '2018-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30165807
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29698030
+  title: 'Contemporary associative learning theory predicts failures to obtain blocking:
+    Comment on Maes et al. (2016).'
+  authors:
+  - Fabian A Soto
+  publisher: Journal of experimental psychology. General
+  date: '2018-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29698030
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/17.10.511
+  title: Classification images reveal changes in the encoding of newly learned face
+    dimensions
+  authors:
+  - Fabian Soto
+  publisher: Journal of Vision
+  date: '2017-08-31'
+  link: https://doi.org/g8z7xj
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/17.10.1302
+  title: Modeling the Mechanisms of Reward Learning that Bias Visual Attention
+  authors:
+  - Jason Hays
+  - Fabian Soto
+  publisher: Journal of Vision
+  date: '2017-08-31'
+  link: https://doi.org/g8z7xk
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC5440596
+  title: 'Testing Separability and Independence of Perceptual Dimensions with General
+    Recognition Theory: A Tutorial and New R Package (<i>grtools</i>)'
+  authors:
+  - Fabian A Soto
+  - Emily Zheng
+  - Johnny Fonseca
+  - F Gregory Ashby
+  publisher: Frontiers in psychology
+  date: '2017-05-23'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440596/
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27453156
+  title: Dissociable changes in functional network topology underlie early category
+    learning and development of automaticity.
+  authors:
+  - Fabian A Soto
+  - Danielle S Bassett
+  - F Gregory Ashby
+  publisher: NeuroImage
+  date: '2016-07-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27453156
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/16.12.1242
+  title: Testing the independence of neural representations of face identity and expression
+    through multidimensional signal detection theory
+  authors:
+  - Fabian Soto
+  - Lauren Vucovich
+  - F. Greg Ashby
+  publisher: Journal of Vision
+  date: '2016-09-01'
+  link: https://doi.org/g8z7xm
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26608549
+  title: Promoting rotational-invariance in object recognition despite experience
+    with only a single view.
+  authors:
+  - Fabian A Soto
+  - Edward A Wasserman
+  publisher: Behavioural processes
+  date: '2015-11-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26608549
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26163820
+  title: Why are some dimensions integral? Testing two hypotheses through causal learning
+    experiments.
+  authors:
+  - "Fabi\xE1n A Soto"
+  - Gonzalo R Quintana
+  - "Andr\xE9s M P\xE9rez-Acosta"
+  - Fernando P Ponce
+  - Edgar H Vogel
+  publisher: Cognition
+  date: '2015-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26163820
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25817370
+  title: Categorization training increases the perceptual separability of novel dimensions.
+  authors:
+  - Fabian A Soto
+  - F Gregory Ashby
+  publisher: Cognition
+  date: '2015-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25817370
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25352784
+  title: 'Mechanisms of object recognition: what we have learned from pigeons.'
+  authors:
+  - Fabian A Soto
+  - Edward A Wasserman
+  publisher: Frontiers in neural circuits
+  date: '2014-10-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25352784
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25090430
+  title: Explaining compound generalization in associative and causal learning through
+    rational principles of dimensional generalization.
+  authors:
+  - Fabian A Soto
+  - Samuel J Gershman
+  - Yael Niv
+  publisher: Psychological review
+  date: '2014-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25090430
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24841236
+  title: 'General recognition theory with individual differences: a new method for
+    examining perceptual and decisional interactions with an application to face perception.'
+  authors:
+  - Fabian A Soto
+  - Lauren Vucovich
+  - Robert Musgrave
+  - F Gregory Ashby
+  publisher: Psychonomic bulletin & review
+  date: '2015-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24841236
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23333700
+  title: 'Brain activity across the development of automatic categorization: a comparison
+    of categorization tasks using multi-voxel pattern analysis.'
+  authors:
+  - Fabian A Soto
+  - Jennifer G Waldschmidt
+  - Sebastien Helie
+  - F Gregory Ashby
+  publisher: NeuroImage
+  date: '2013-01-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23333700
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22823423
+  title: 'A category-overshadowing effect in pigeons: support for the Common Elements
+    Model of object categorization learning.'
+  authors:
+  - Fabian A Soto
+  - Edward A Wasserman
+  publisher: Journal of experimental psychology. Animal behavior processes
+  date: '2012-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22823423
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22531015
+  title: View-invariance learning in object recognition by pigeons depends on error-driven
+    associative learning processes.
+  authors:
+  - Fabian A Soto
+  - Jeffrey Y M Siow
+  - Edward A Wasserman
+  publisher: Vision research
+  date: '2012-04-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22531015
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22086545
+  title: 'Visual object categorization in birds and primates: integrating behavioral,
+    neurobiological, and computational evidence within a "general process" framework.'
+  authors:
+  - Fabian A Soto
+  - Edward A Wasserman
+  publisher: Cognitive, affective & behavioral neuroscience
+  date: '2012-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22086545
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4419-1428-6_426
+  title: Categorical Learning in Pigeons
+  authors:
+  - Fabian A. Soto
+  - Edward A. Wasserman
+  publisher: Encyclopedia of the Sciences of Learning
+  date: '2012-01-01'
+  link: https://doi.org/fzhf86
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21454855
+  title: Asymmetrical interactions in the perception of face identity and emotional
+    expression are not unique to the primate visual system.
+  authors:
+  - Fabian A Soto
+  - Edward A Wasserman
+  publisher: Journal of vision
+  date: '2011-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21454855
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20600696
+  title: Effect of between-category similarity on basic level superiority in pigeons.
+  authors:
+  - Olga F Lazareva
+  - "Fabi\xE1n A Soto"
+  - Edward A Wasserman
+  publisher: Behavioural processes
+  date: '2010-06-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20600696
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20817911
+  title: 'Missing the forest for the trees: object-discrimination learning blocks
+    categorization learning.'
+  authors:
+  - Fabian A Soto
+  - Edward A Wasserman
+  publisher: Psychological science
+  date: '2010-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20817911
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20438230
+  title: 'Error-driven learning in visual categorization and object recognition: a
+    common-elements model.'
+  authors:
+  - Fabian A Soto
+  - Edward A Wasserman
+  publisher: Psychological review
+  date: '2010-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20438230
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20384400
+  title: Integrality/separability of stimulus dimensions and multidimensional generalization
+    in pigeons.
+  authors:
+  - Fabian A Soto
+  - Edward A Wasserman
+  publisher: Journal of experimental psychology. Animal behavior processes
+  date: '2010-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20384400
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20824149
+  title: 'Comparative Vision Science: Seeing Eye to Eye?'
+  authors:
+  - Fabian A Soto
+  - Edward A Wasserman
+  publisher: Comparative cognition & behavior reviews
+  date: '2010-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20824149
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19048450
+  title: Generality of the summation effect in human causal learning.
+  authors:
+  - Fabian A Soto
+  - Edgar H Vogel
+  - "Ram\xF3n D Castillo"
+  - Allan R Wagner
+  publisher: Quarterly journal of experimental psychology (2006)
+  date: '2008-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19048450
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17474323
+  title: Enhancement of Pavlovian conditioned immunosuppression in rats.
+  authors:
+  - Edgar H Vogel
+  - "Mar\xEDa E Castro"
+  - Paola A Solar
+  - "Fabi\xE1n A Soto"
+  publisher: Acta neurobiologiae experimentalis
+  date: '2007-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17474323
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:18064349
+  title: Stimulus specificity in the acquisition and extinction of conditioned taste
+    aversion.
+  authors:
+  - Edgar H Vogel
+  - "Fabi\xE1n A Soto"
+  - "Mar\xEDa E Castro"
+  - Paola A Solar
+  publisher: Biological research
+  date: '2007-11-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18064349
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:0120-0534
+  title: ISSN 0120-0534 (Print) | Revista latinoamericana de psicologia | The ISSN
+    Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/0120-0534
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/9gxmy
+  title: A Computational Account of the Mechanisms Underlying Face Perception Biases
+    in Depression
+  authors:
+  - Fabian Soto
+  - Rochelle Ann Stewart
+  - Sanaz Hosseini
+  - Jason Scott Hays
+  - Christopher G Beevers
+  publisher: Center for Open Science
+  date: '2019-11-12'
+  link: https://doi.org/g8z7xn
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/djteh
+  title: Adaptation aftereffects reveal how categorization training changes the encoding
+    of face identity
+  authors:
+  - Fabian Soto
+  - Karla Escobar
+  - Jefferson Salan
+  publisher: Center for Open Science
+  date: '2020-01-01'
+  link: https://doi.org/g8z7xp
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.03.26.010900
+  title: Changes within neural population codes can be inferred from psychophysical
+    threshold studies
+  authors:
+  - Jason Hays
+  - Fabian A. Soto
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-03-29'
+  link: https://doi.org/gk3pxt
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/yx8m4
+  title: Evidence for a dissociation between causal beliefs and instrumental actions
+  authors:
+  - Omar David Perez
+  - Fabian Soto
+  publisher: Center for Open Science
+  date: '2018-12-02'
+  link: https://doi.org/g8z7xq
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/178954
+  title: Exploring the role of stimulus similarity on the summation effect in causal
+    learning
+  authors:
+  - "Omar D. P\xE9rez"
+  - "Rene San Mart\xEDn"
+  - "Fabi\xE1n A. Soto"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-08-21'
+  link: https://doi.org/gkvw84
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.02.27.967505
   title: Improving the validity of neuroimaging decoding tests of invariant and configural
     neural representation
   authors:
   - Fabian A. Soto
   - Sanjay Narasiwodeyar
-  publisher: PLOS Computational Biology
-  date: '2023-01-23'
-  link: https://doi.org/g8z6m6
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-02-28'
+  link: https://doi.org/ggxwwf
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s00426-019-01157-7
-  title: Novel representations that support rule-based categorization are acquired
-    on-the-fly during category learning
-  authors:
-  - Fabian A. Soto
-  - F. Gregory Ashby
-  publisher: Psychological Research
-  date: '2019-02-26'
-  link: https://doi.org/g8z6m7
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1006470
+- id: doi:10.1101/254995
   title: Linking signal detection theory and encoding models to reveal independent
     neural representations from neuroimaging data
   authors:
   - Fabian A. Soto
   - Lauren E. Vucovich
+  - F. G. Ashby
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-01-29'
+  link: https://doi.org/gkxdkq
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/6azvd
+  title: 'Non-conscious Perception of Facial Expression with Continuous Flash Suppression:
+    A Signal Detection Analysis'
+  authors:
+  - Ali Pournaghdali
+  - Bennett L. Shwartz
+  - Jason Scott Hays
+  - Fabian Soto
+  publisher: Center for Open Science
+  date: '2018-08-06'
+  link: https://doi.org/g8z7xr
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/9ady5
+  title: Novel representations that support rule-based categorization are acquired
+    on-the-fly during category learning
+  authors:
+  - Fabian Soto
   - F. Gregory Ashby
-  publisher: PLOS Computational Biology
-  date: '2018-10-01'
-  link: https://doi.org/gfcgsb
+  publisher: Center for Open Science
+  date: '2018-03-01'
+  link: https://doi.org/g8z7xs
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/akem2
+  title: 'Sensitivity vs. Awareness Curve: A Novel Model-Based Analysis to Uncover
+    the Processes Underlying Nonconscious Perception'
+  authors:
+  - Ali Pournaghdali
+  - Bennett L Schwartz
+  - Jason Scott Hays
+  - Fabian Soto
+  publisher: Center for Open Science
+  date: '2019-07-24'
+  link: https://doi.org/g8z7xt
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/713420
+  title: Sub-sampling of cues in associative learning
+  authors:
+  - Omar D. Perez
+  - Edgar H. Vogel
+  - Sanjay Narasiwodeyar
+  - Fabian A. Soto
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-07-24'
+  link: https://doi.org/gkw6qz
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/dpsm4
+  title: Why is the Rescorla-Wagner model so influential?
+  authors:
+  - Fabian Soto
+  - Edgar Harry Vogel
+  - Yerco Uribe-Bahamonde
+  - Omar David Perez
+  publisher: Center for Open Science
+  date: '2023-06-03'
+  link: https://doi.org/g8z7xv
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
