@@ -14,4 +14,4 @@ nav:
 
 {% include section.html %}
 
-{% include list.html component="card" data="software" filter="!group" style="small" %}
+{% include list.html component="card" data="software" style="small" %}
