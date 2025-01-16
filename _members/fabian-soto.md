@@ -1,7 +1,7 @@
 ---
 name: Fabian Soto
 image: images/fabian-soto.png
-role: principal-investigator
+role: pi
 affiliation: Florida International University
 aliases:
   - Fabian A. Soto Caro
