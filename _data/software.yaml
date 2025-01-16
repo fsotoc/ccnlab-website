@@ -1,0 +1,22 @@
+- title: grtools
+  subtitle: a subtitle
+  group: featured
+  image: images/grtools.png
+  link: https://github.com/fsotoc/grtools
+  description: R package for the analysis of perceptual independence using General Recognition Theory. Includes functions to analyze data with GRT-wIND (Soto et al., 2015).
+  tags:
+    - software
+    - R
+    - signal detection theory
+
+- title: FaReT
+  subtitle: Face Research Toolkit
+  group: featured
+  image: images/faret.png
+  link: https://github.com/fsotoc/FaReT
+  description: A free and open-source toolkit of 3D models and software to study face perception. Includes a database of 27 identity models and 6 emotional expression models, together with software to manipulate the models in ways that are common in the face perception literature (e.g., “morphing”, “anti-faces”, “caricatures”, “averaging”), obtain videos of dynamic faces, standardize irrelevant features in multiple models, and communicate with experiment software (e.g., PsychoPy) to render faces dynamically online.
+  tags:
+    - software
+    - python
+    - makehuman
+    - face modeling
