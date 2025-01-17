@@ -1,9 +1,9 @@
 ---
 ---
 
-# Visual Cognition and Neural Computation Lab
+# Computational Cognitive Neuroscience Lab
 
-Welcome! We are the VCNC Lab directed by Dr. Fabian Soto and located at Florida International University in Miami, FL. 
+Welcome! We are the CCN Lab directed by Dr. Fabian Soto and located at Florida International University in Miami, FL. 
 
 {% include figure.html image="images/fiu-01.jpg" width="100%" %}
 
