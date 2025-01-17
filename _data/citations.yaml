@@ -113,20 +113,6 @@
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1167/jov.22.14.3940
-  title: Changes in Bias and not Sensitivity Underlie Increases in the Accuracy of
-    Perceptual Decisions After Errors and Uncertainty
-  authors:
-  - Ali Pournaghdali
-  - Craig McDonald
-  - Fabian Soto
-  - George Buzzell
-  publisher: Journal of Vision
-  date: '2022-12-05'
-  link: https://doi.org/g8z7w6
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:35710303
   title: Subsampling of cues in associative learning.
   authors:
@@ -171,18 +157,6 @@
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1167/jov.20.11.959
-  title: 'Sensitivity vs. awareness curve: a novel model-based analysis to uncover
-    the processes underlying nonconscious perception'
-  authors:
-  - Fabian Soto
-  - Ali Pournaghdali
-  publisher: Journal of Vision
-  date: '2020-10-20'
-  link: https://doi.org/g8z7w7
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:33064122
   title: Adaptation aftereffects reveal how categorization training changes the encoding
     of face identity.
@@ -215,69 +189,6 @@
   publisher: Behavioural processes
   date: '2019-08-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31381986
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/19.10.87d
-  title: Linking general recognition theory and classification images to study invariance
-    and configurality of visual representations
-  authors:
-  - Fabian A Soto
-  publisher: Journal of Vision
-  date: '2019-09-06'
-  link: https://doi.org/g8z7w8
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/19.10.6a
-  title: What Can Be Inferred About Neural Population Codes from Psychophysical and
-    Neuroimaging Data?
-  authors:
-  - Fabian Soto
-  - Justin L. Gardner
-  - Rosie Cowell
-  - Kara Emery
-  - Jason Hays
-  - Fabian A. Soto
-  publisher: Journal of Vision
-  date: '2019-09-06'
-  link: https://doi.org/g8z7w9
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/19.10.7
-  title: What can be inferred about changes in neural population codes from psychophysical
-    threshold studies?
-  authors:
-  - Jason Hays
-  - Fabian A. Soto
-  publisher: Journal of Vision
-  date: '2019-09-06'
-  link: https://doi.org/g8z7xb
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/19.10.37a
-  title: What can be inferred about independence and invariance of brain representations
-    from fMRI decoding studies?
-  authors:
-  - Sanjay Narasiwodeyar
-  - Fabian A. Soto
-  publisher: Journal of Vision
-  date: '2019-09-06'
-  link: https://doi.org/g8z7xc
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/19.10.7a
-  title: What can be inferred about invariance of visual representations from fMRI
-    decoding studies?
-  authors:
-  - Fabian A. Soto
-  - Sanjay Narasiwodeyar
-  publisher: Journal of Vision
-  date: '2019-09-06'
-  link: https://doi.org/g8z7xd
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
@@ -332,39 +243,6 @@
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1167/18.10.607
-  title: Are face identity and expression processed independently or interactively?
-    A study controlling stimulus and decisional factors
-  authors:
-  - Claudia Wong
-  - Fabian Soto
-  publisher: Journal of Vision
-  date: '2018-09-01'
-  link: https://doi.org/g8z7xf
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/18.10.1094
-  title: Comparing the perceptual separability of familiar and unfamiliar face dimensions
-  authors:
-  - S. Sanaz Hosseini
-  - Fabian Soto
-  publisher: Journal of Vision
-  date: '2018-09-01'
-  link: https://doi.org/g8z7xg
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/18.10.559
-  title: Does categorization training change the encoding of face identity?
-  authors:
-  - Fabian Soto
-  publisher: Journal of Vision
-  date: '2018-09-01'
-  link: https://doi.org/g8z7xh
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:30165807
   title: Exploring the Effect of Stimulus Similarity on the Summation Effect in Causal
     Learning.
@@ -386,28 +264,6 @@
   publisher: Journal of experimental psychology. General
   date: '2018-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29698030
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/17.10.511
-  title: Classification images reveal changes in the encoding of newly learned face
-    dimensions
-  authors:
-  - Fabian Soto
-  publisher: Journal of Vision
-  date: '2017-08-31'
-  link: https://doi.org/g8z7xj
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/17.10.1302
-  title: Modeling the Mechanisms of Reward Learning that Bias Visual Attention
-  authors:
-  - Jason Hays
-  - Fabian Soto
-  publisher: Journal of Vision
-  date: '2017-08-31'
-  link: https://doi.org/g8z7xk
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
@@ -435,19 +291,6 @@
   publisher: NeuroImage
   date: '2016-07-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27453156
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1167/16.12.1242
-  title: Testing the independence of neural representations of face identity and expression
-    through multidimensional signal detection theory
-  authors:
-  - Fabian Soto
-  - Lauren Vucovich
-  - F. Greg Ashby
-  publisher: Journal of Vision
-  date: '2016-09-01'
-  link: https://doi.org/g8z7xm
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
@@ -707,148 +550,6 @@
   publisher: ''
   date: ''
   link: https://portal.issn.org/resource/ISSN/0120-0534
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/9gxmy
-  title: A Computational Account of the Mechanisms Underlying Face Perception Biases
-    in Depression
-  authors:
-  - Fabian Soto
-  - Rochelle Ann Stewart
-  - Sanaz Hosseini
-  - Jason Scott Hays
-  - Christopher G Beevers
-  publisher: Center for Open Science
-  date: '2019-11-12'
-  link: https://doi.org/g8z7xn
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/djteh
-  title: Adaptation aftereffects reveal how categorization training changes the encoding
-    of face identity
-  authors:
-  - Fabian Soto
-  - Karla Escobar
-  - Jefferson Salan
-  publisher: Center for Open Science
-  date: '2020-01-01'
-  link: https://doi.org/g8z7xp
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.03.26.010900
-  title: Changes within neural population codes can be inferred from psychophysical
-    threshold studies
-  authors:
-  - Jason Hays
-  - Fabian A. Soto
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-03-29'
-  link: https://doi.org/gk3pxt
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/yx8m4
-  title: Evidence for a dissociation between causal beliefs and instrumental actions
-  authors:
-  - Omar David Perez
-  - Fabian Soto
-  publisher: Center for Open Science
-  date: '2018-12-02'
-  link: https://doi.org/g8z7xq
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/178954
-  title: Exploring the role of stimulus similarity on the summation effect in causal
-    learning
-  authors:
-  - "Omar D. P\xE9rez"
-  - "Rene San Mart\xEDn"
-  - "Fabi\xE1n A. Soto"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-08-21'
-  link: https://doi.org/gkvw84
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.02.27.967505
-  title: Improving the validity of neuroimaging decoding tests of invariant and configural
-    neural representation
-  authors:
-  - Fabian A. Soto
-  - Sanjay Narasiwodeyar
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-02-28'
-  link: https://doi.org/ggxwwf
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/6azvd
-  title: 'Non-conscious Perception of Facial Expression with Continuous Flash Suppression:
-    A Signal Detection Analysis'
-  authors:
-  - Ali Pournaghdali
-  - Bennett L. Shwartz
-  - Jason Scott Hays
-  - Fabian Soto
-  publisher: Center for Open Science
-  date: '2018-08-06'
-  link: https://doi.org/g8z7xr
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/9ady5
-  title: Novel representations that support rule-based categorization are acquired
-    on-the-fly during category learning
-  authors:
-  - Fabian Soto
-  - F. Gregory Ashby
-  publisher: Center for Open Science
-  date: '2018-03-01'
-  link: https://doi.org/g8z7xs
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/akem2
-  title: 'Sensitivity vs. Awareness Curve: A Novel Model-Based Analysis to Uncover
-    the Processes Underlying Nonconscious Perception'
-  authors:
-  - Ali Pournaghdali
-  - Bennett L Schwartz
-  - Jason Scott Hays
-  - Fabian Soto
-  publisher: Center for Open Science
-  date: '2019-07-24'
-  link: https://doi.org/g8z7xt
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/713420
-  title: Sub-sampling of cues in associative learning
-  authors:
-  - Omar D. Perez
-  - Edgar H. Vogel
-  - Sanjay Narasiwodeyar
-  - Fabian A. Soto
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-07-24'
-  link: https://doi.org/gkw6qz
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/dpsm4
-  title: Why is the Rescorla-Wagner model so influential?
-  authors:
-  - Fabian Soto
-  - Edgar Harry Vogel
-  - Yerco Uribe-Bahamonde
-  - Omar David Perez
-  publisher: Center for Open Science
-  date: '2023-06-03'
-  link: https://doi.org/g8z7xv
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
