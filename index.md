@@ -26,7 +26,7 @@ We study how the neurocomputational mechanisms of visual encoding and learning i
 
 {%
   include feature.html
-  image="images/encoding-model.png"
+  image="images/eye-refletion.jpg"
   link="research"
   title="Our Research"
   text=text
