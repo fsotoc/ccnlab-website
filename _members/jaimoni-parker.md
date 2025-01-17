@@ -1,6 +1,6 @@
 ---
 name: Jaimoni Parker
-image: images/members/jaimoni-parker.jpg
+image: images/members/jaimoni-parker.jpeg
 description: Undergrad Research Assistant
 role: undergrad
 links:

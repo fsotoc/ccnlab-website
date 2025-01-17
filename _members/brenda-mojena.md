@@ -1,6 +1,6 @@
 ---
 name: Brenda Mojena
-image: images/members/brenda-mojena.jpg
+image: images/members/brenda-mojena.jpeg
 description: Undergrad Research Assistant
 role: undergrad
 links:
