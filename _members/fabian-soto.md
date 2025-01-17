@@ -5,7 +5,7 @@ role: pi
 affiliation: Florida International University
 aliases:
   - Fabian A. Soto Caro
-  - F Soto
+  - Soto
 links:
   home-page: https://case.fiu.edu/about/directory/profiles/soto-caro-fabian.html
   email: fasoto@fiu.edu
