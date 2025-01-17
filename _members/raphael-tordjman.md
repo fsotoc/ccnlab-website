@@ -1,6 +1,6 @@
 ---
 name: Raphael Tordjman
-image: images/raphael-tordjman.png
+image: images/members/raphael-tordjman.png
 role: phd
 links:
   email: rtordjma@fiu.edu

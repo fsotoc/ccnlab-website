@@ -1,6 +1,6 @@
 ---
 name: Fabian Soto
-image: images/fabian-soto.png
+image: images/members/fabian-soto.png
 role: pi
 affiliation: Florida International University
 aliases:

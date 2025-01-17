@@ -1,6 +1,6 @@
 ---
 name: Emily Martin
-image: images/emily-martin.jpg
+image: images/members/emily-martin.jpg
 role: phd
 links:
   email: eremarti@fiu.edu
