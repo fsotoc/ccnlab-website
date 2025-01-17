@@ -1,9 +1,9 @@
 ---
 ---
 
-# Computational Cognitive Neuroscience Lab
+# Visual Cognition and Neural Computation Lab
 
-An engaging 1-3 sentence description of your lab.
+The VCNC Lab is directed by Dr. Fabian Soto at Florida International University, located in sunny Miami, Florida.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study how the neurocomputational mechanisms of visual encoding and learning interact during and face recognition and categorization. We approach this overarching research goal by trying to answer the following questions: How are faces and other objects encoded in the brain? How does learning about faces influence their neural encoding? How does face encoding influence learning and generalization? We take a highly integrative, inter-disciplinary research approach that combines computational modeling, behavioral research, and neuroimaging.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/encoding-model.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,12 +34,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the people behind our research and learn about our varied interests and backgrounds.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="team"
+  text="Meet Our Team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/teamwork.png"
+  link="team"
+  title="Our Team"
   flip=true
   style="bare"
   text=text
@@ -59,12 +59,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read all about what we have been working on in recent years.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="publications"
+  text="See Our Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,8 +74,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/paper-pile.jpg"
+  link="publications"
+  title="Our Publications"
   text=text
 %}

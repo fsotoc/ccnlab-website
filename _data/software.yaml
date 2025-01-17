@@ -1,5 +1,5 @@
 - title: grtools
-  subtitle: a subtitle
+  subtitle: GRT analyses in R
   group: featured
   image: images/grtools.png
   link: https://github.com/fsotoc/grtools
@@ -14,7 +14,7 @@
   group: featured
   image: images/faret.png
   link: https://github.com/fsotoc/FaReT
-  description: A free and open-source toolkit of 3D models and software to study face perception. Includes a database of 27 identity models and 6 emotional expression models, together with software to manipulate the models in ways that are common in the face perception literature (e.g., “morphing”, “anti-faces”, “caricatures”, “averaging”), obtain videos of dynamic faces, standardize irrelevant features in multiple models, and communicate with experiment software (e.g., PsychoPy) to render faces dynamically online.
+  description: A free and open-source toolkit of 3D models and software to study face perception. 
   tags:
     - software
     - python
