@@ -105,7 +105,7 @@
   image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
   buttons:
   - type: pdf
-    link: pdfs/chapter12V8.pdf
+    link: pdf/chapter12V8.pdf
 - id: pmid:36163609
   title: 'Sensitivity vs. awareness curve: A novel model-based analysis to uncover
     the processes underlying nonconscious perception.'
