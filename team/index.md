@@ -10,9 +10,9 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -25,5 +25,6 @@ We are always looking for highly motivated students with an interest in vision, 
 
 ## Alumni
 
-{% include list.html data="members" component="portrait" filters="role: phd, group: alumn" stile="small" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: alumn" stile="small" %}
+{% include list.html data="members/former" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members/former" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members/former" component="portrait" filter="role == 'undergrad'" %}
