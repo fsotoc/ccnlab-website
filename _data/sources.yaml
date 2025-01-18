@@ -1,18 +1,39 @@
+
+# Perez et al., 2022
 - id: pmid:35710303
   image: https://learnmem.cshlp.org/content/29/7/F1.medium.gif
   link: https://learnmem.cshlp.org/content/29/7/160
   tags:
     - generalization
 
+# Hays & Soto, 2024. CBB
 - id: doi:10.1007/s42113-024-00227-3
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
-
-- id: doi:10.1101/254995
-  remove: true
+  
 
 - id: pmid:38557028
   image: https://pbs.twimg.com/media/GC95oBgWcAAXvk5?format=jpg&name=large
   publisher: Emotion
 
+# Hosseini and Soto, 2024. Emotion
 - id: doi:10.1017/9781108902724.011
   image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
+  buttons:
+    - type: pdf
+      link: https://osf.io/vfhk9/download/
+    - type: osf
+      link: https://osf.io/thjkq/files/osfstorage?view_only=e17041f72471468993a0444d968c1e27
+
+# Martin et al., 2024. PB&R
+- id: pmid:38381300
+  image: https://pbs.twimg.com/media/FbmAcOzX0AEkrra?format=png&name=small
+  buttons:
+    - type: pdf
+      link: https://osf.io/jfy93/download/
+    - type: osf
+      link: https://osf.io/ur3wm/files/osfstorage
+    - type: preregistration
+      link: https://osf.io/ud7jg
+
+- id: doi:10.1101/254995
+  remove: true

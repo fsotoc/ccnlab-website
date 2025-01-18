@@ -178,6 +178,11 @@ journal:
   text: Journal
   tooltip: Journal
 
+pdf:
+  icon: fa-solid fa-newspaper
+  text: PDF
+  tooltip: PDF
+
 preprint:
   icon: fa-regular fa-eye
   text: Preprint
@@ -187,6 +192,16 @@ unpublished:
   icon: fa-regular fa-eye
   text: Unpublished
   tooltip: Unpublished
+
+osf:
+  icon: osf.svg
+  text: OSF
+  tooltip: OSF
+
+preregistration:
+  icon: preregistered.svg
+  text: Preregistration
+  tooltip: Preregistration
 
 manubot:
   icon: manubot.svg
