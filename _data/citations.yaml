@@ -103,6 +103,9 @@
   plugin: sources.py
   file: sources.yaml
   image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
+  buttons:
+  - type: pdf
+    link: pdfs/chapter12V8.pdf
 - id: pmid:36163609
   title: 'Sensitivity vs. awareness curve: A novel model-based analysis to uncover
     the processes underlying nonconscious perception.'
@@ -143,8 +146,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://learnmem.cshlp.org/content/29/7/F1.medium.gif
-  tags:
-  - generalization
 - id: pmid:34472882
   title: A computational account of the mechanisms underlying face perception biases
     in depression.
