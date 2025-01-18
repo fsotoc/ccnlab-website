@@ -8,5 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 
-# whatever
+## Our Research Philosophy
+
+
+
 ![](https://www.youtube.com/watch?v=8r-kniupke4?width=800&height=500)
