@@ -11,16 +11,8 @@
   date: '2024-02-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38381300
   orcid: 0000-0002-1001-679X
-  plugin: sources.py
-  file: sources.yaml
-  image: https://pbs.twimg.com/media/FbmAcOzX0AEkrra?format=png&name=small
-  buttons:
-  - type: pdf
-    link: https://osf.io/jfy93/download/
-  - type: osf
-    link: https://osf.io/ur3wm/files/osfstorage
-  - type: preregistration
-    link: https://osf.io/ud7jg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:38839717
   title: Toward a mechanistic understanding of the role of error monitoring and memory
     in social anxiety.
@@ -99,10 +91,8 @@
   file: sources.yaml
   image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
   buttons:
-  - type: pdf
+  - type: preprint
     link: https://osf.io/vfhk9/download/
-  - type: osf
-    link: https://osf.io/thjkq/files/osfstorage?view_only=e17041f72471468993a0444d968c1e27
 - id: pmid:36163609
   title: 'Sensitivity vs. awareness curve: A novel model-based analysis to uncover
     the processes underlying nonconscious perception.'
