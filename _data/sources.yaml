@@ -9,3 +9,7 @@
 
 - id: doi:10.1101/254995
   remove: true
+
+- id: pmid:38557028
+  image: https://pbs.twimg.com/media/GC95oBgWcAAXvk5?format=jpg&name=large
+  publisher: Emotion
