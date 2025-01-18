@@ -1,16 +1,19 @@
+# remove bad entries
+- id: doi:10.1101/254995
+  remove: true
 
-# Perez et al., 2022
+# add elements to orcid-generated entries
+# Perez et al., 2022, 
 - id: pmid:35710303
   image: https://learnmem.cshlp.org/content/29/7/F1.medium.gif
   link: https://learnmem.cshlp.org/content/29/7/160
-  tags:
-    - generalization
+
 
 # Hays & Soto, 2024. CBB
 - id: doi:10.1007/s42113-024-00227-3
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
   
-# Hosseini and Soto, 2024. Emotion
+# Hosseini Soto, Emotion, 2024
 - id: pmid:38557028
   image: https://pbs.twimg.com/media/GC95oBgWcAAXvk5?format=jpg&name=large
   publisher: Emotion
@@ -20,9 +23,13 @@
     - type: data
       link: https://osf.io/thjkq/files/osfstorage?view_only=e17041f72471468993a0444d968c1e27
 
-# Soto and Ashby, 2023, chapter
+
+# encoding models chapter
 - id: doi:10.1017/9781108902724.011
   image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
+  buttons:
+    - type: pdf
+      link: pdfs/chapter12V8.pdf
 
 # Martin et al., 2024. PB&R
 - id: pmid:38381300
@@ -35,5 +42,3 @@
     - type: preregistration
       link: https://osf.io/ud7jg
 
-- id: doi:10.1101/254995
-  remove: true
