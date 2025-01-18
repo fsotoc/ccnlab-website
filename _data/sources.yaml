@@ -43,3 +43,27 @@
       link: https://osf.io/ud7jg
 
 # Soto & Beevers, 2024, BP
+
+# Soto & Narasiwodeyar, 2023, PCB
+- id: pmc:PMC9894561
+  link: https://doi.org/10.1371/journal.pcbi.1010819
+  image: images/research/specificity-invariance.png
+  buttons:
+    - type: pdf
+      link: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1010819&type=printable
+
+# Pournaghdali et al., 2022, PBR
+- id: pmid:36163609
+  image: https://pbs.twimg.com/media/EANDBhIUYAA8OVX?format=png&name=900x900
+  buttons:
+    - type: pdf
+      link: https://osf.io/akem2/download/
+    - type: data
+      link: https://osf.io/tnx3w/
+
+# Soto ... Beevers, 2021, JAP
+- id: pmid:34472882
+  image: https://pbs.twimg.com/media/FRnjtMVXEAA52qN?format=jpg&name=large
+  buttons:
+    - type: pdf
+      link: https://osf.io/9gxmy/download/
