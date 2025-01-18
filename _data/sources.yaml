@@ -19,21 +19,8 @@
 - id: doi:10.1017/9781108902724.011
   image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
   buttons:
-    - type: pdf
+    - type: preprint
       link: https://osf.io/vfhk9/download/
-    - type: osf
-      link: https://osf.io/thjkq/files/osfstorage?view_only=e17041f72471468993a0444d968c1e27
-
-# Martin et al., 2024. PB&R
-- id: pmid:38381300
-  image: https://pbs.twimg.com/media/FbmAcOzX0AEkrra?format=png&name=small
-  buttons:
-    - type: pdf
-      link: https://osf.io/jfy93/download/
-    - type: osf
-      link: https://osf.io/ur3wm/files/osfstorage
-    - type: preregistration
-      link: https://osf.io/ud7jg
 
 - id: doi:10.1101/254995
   remove: true
