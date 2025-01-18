@@ -118,8 +118,14 @@
   date: '2022-09-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36163609
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pbs.twimg.com/media/EANDBhIUYAA8OVX?format=png&name=900x900
+  buttons:
+  - type: pdf
+    link: https://osf.io/akem2/download/
+  - type: data
+    link: https://osf.io/tnx3w/
 - id: pmc:PMC9894561
   title: Improving the validity of neuroimaging decoding tests of invariant and configural
     neural representation
@@ -128,10 +134,14 @@
   - Sanjay Narasiwodeyar
   publisher: PLoS computational biology
   date: '2023-01-23'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9894561/
+  link: https://doi.org/10.1371/journal.pcbi.1010819
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/specificity-invariance.png
+  buttons:
+  - type: pdf
+    link: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1010819&type=printable
 - id: pmid:35710303
   title: Subsampling of cues in associative learning.
   authors:
@@ -159,8 +169,12 @@
   date: '2021-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34472882
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pbs.twimg.com/media/FRnjtMVXEAA52qN?format=jpg&name=large
+  buttons:
+  - type: pdf
+    link: https://osf.io/9gxmy/download/
 - id: pmid:32519291
   title: 'FaReT: A free and open-source toolkit of three-dimensional models and software
     to study face perception.'
