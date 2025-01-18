@@ -10,19 +10,19 @@
 - id: doi:10.1007/s42113-024-00227-3
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
   
-
+# Hosseini and Soto, 2024. Emotion
 - id: pmid:38557028
   image: https://pbs.twimg.com/media/GC95oBgWcAAXvk5?format=jpg&name=large
   publisher: Emotion
-
-# Hosseini and Soto, 2024. Emotion
-- id: doi:10.1017/9781108902724.011
-  image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
   buttons:
     - type: pdf
       link: https://osf.io/vfhk9/download/
     - type: data
       link: https://osf.io/thjkq/files/osfstorage?view_only=e17041f72471468993a0444d968c1e27
+
+# Soto and Ashby, 2023, chapter
+- id: doi:10.1017/9781108902724.011
+  image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
 
 # Martin et al., 2024. PB&R
 - id: pmid:38381300

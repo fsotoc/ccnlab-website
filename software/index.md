@@ -8,8 +8,6 @@ nav:
 # {% include icon.html icon="fa-solid fa-code" %}Software
 
 
-{% include tags.html tags="python, R" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
