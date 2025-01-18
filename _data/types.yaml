@@ -195,7 +195,7 @@ unpublished:
 
 
 preregistration:
-  icon: fa-circle-check
+  icon: fa-solid fa-circle-check
   text: Preregistration
   tooltip: Preregistration
 
