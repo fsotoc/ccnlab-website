@@ -29,7 +29,7 @@
   image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
   buttons:
     - type: pdf
-      link: pdfs/chapter12V8.pdf
+      link: pdf/chapter12V8.pdf
 
 # Martin et al., 2024. PB&R
 - id: pmid:38381300
@@ -42,3 +42,4 @@
     - type: preregistration
       link: https://osf.io/ud7jg
 
+# Soto & Beevers, 2024, BP
