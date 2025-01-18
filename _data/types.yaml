@@ -193,13 +193,9 @@ unpublished:
   text: Unpublished
   tooltip: Unpublished
 
-osf:
-  icon: osf.svg
-  text: OSF
-  tooltip: OSF
 
 preregistration:
-  icon: preregistered.svg
+  icon: fa-circle-check
   text: Preregistration
   tooltip: Preregistration
 
