@@ -1,8 +1,7 @@
 ---
 name: Jason Hays
 image: images/members/jason-hays.png
-role: phd
-group: alumn
+role: alumni
 aliases:
   - Hays
 ---

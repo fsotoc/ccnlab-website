@@ -1,8 +1,7 @@
 ---
 name: Sanjay Narasiwodeyar
 image: images/members/sanjay-narasiwodeyar.png
-role: phd
-group: alumn
+role: alumni
 aliases:
   - Narasiwodeyar
 ---

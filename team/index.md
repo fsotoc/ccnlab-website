@@ -25,6 +25,4 @@ We are always looking for highly motivated students with an interest in vision, 
 
 ## Alumni
 
-{% include list.html data="members/former" component="portrait" filter="role == 'postdoc'" %}
-{% include list.html data="members/former" component="portrait" filter="role == 'phd'" %}
-{% include list.html data="members/former" component="portrait" filter="role == 'undergrad'" %}
+{% include list.html data="members/former" component="portrait" filter="role == 'alumni'" style="small" %}

@@ -1,8 +1,7 @@
 ---
 name: Ali Pournaghdali
 image: images/members/ali-pournaghdali.jpg
-role: phd
-group: alumn
+role: alumni
 aliases:
   - Pournaghdali
 ---

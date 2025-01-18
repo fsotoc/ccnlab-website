@@ -1,8 +1,7 @@
 ---
 name: Sanaz Hosseini
 image: images/members/sanaz-hosseini.jpg
-role: phd
-group: alumn
+role: alumni
 aliases:
   - Hosseini
 ---
