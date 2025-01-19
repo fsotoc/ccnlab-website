@@ -204,6 +204,16 @@ manubot:
   text: Manubot
   tooltip: Manubot
 
+video:
+  icon: fa-brands fa-youtube
+  text: Video
+  tooltip: Video
+
+highlight:
+  icon: fa-regular fa-newspaper
+  text: Editorial Highlight
+  tooltip: Editorial Highlight
+
 # software
 
 docs:

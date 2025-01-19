@@ -3,16 +3,20 @@
   remove: true
 
 # add elements to orcid-generated entries
-# Perez et al., 2022, 
-- id: pmid:35710303
-  image: https://learnmem.cshlp.org/content/29/7/F1.medium.gif
-  link: https://learnmem.cshlp.org/content/29/7/160
-
 
 # Hays & Soto, 2024. CBB
 - id: doi:10.1007/s42113-024-00227-3
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
-  
+
+# Kia Hosseini et al., 2024, CABN errors
+- id: pmid:38839717
+  image: images/research/eeg-theta-error.png
+  buttons:
+    - type: pdf
+      link: https://www.biorxiv.org/content/10.1101/2023.09.14.557662v1.full.pdf
+    - type: data
+      link: https://github.com/NDCLab/memory-for-error-mini
+
 # Hosseini Soto, Emotion, 2024
 - id: pmid:38557028
   image: https://pbs.twimg.com/media/GC95oBgWcAAXvk5?format=jpg&name=large
@@ -43,6 +47,21 @@
       link: https://osf.io/ud7jg
 
 # Soto & Beevers, 2024, BP
+- id: pmid:38336169
+  image: images/research/bp2024.png
+  buttons:
+    - type: pdf
+      link: https://labs.la.utexas.edu/beevers/files/2024/10/Soto-and-Beevers-2024-Perceptual-Observer-Modeling-Reveals-Likely-Mechanisms-of-Face-Expression-Recognition-Deficits-in-Depression.pdf
+    - type: highlight
+      link: https://www.biologicalpsychiatrycnni.org/article/S2451-9022(24)00114-9/abstract
+
+
+# Soto et al., RW influence
+- id: pmid:37473985
+  image: images/research/rw-influence.png
+  buttons:
+    - type: pdf
+      link: https://cicc.utalca.cl/site-assets/uploads/2023/07/soto2023.pdf
 
 # Soto & Narasiwodeyar, 2023, PCB
 - id: pmc:PMC9894561
@@ -51,6 +70,8 @@
   buttons:
     - type: pdf
       link: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1010819&type=printable
+    - type: data
+      link: https://osf.io/z2h9w/
 
 # Pournaghdali et al., 2022, PBR
 - id: pmid:36163609
@@ -61,9 +82,154 @@
     - type: data
       link: https://osf.io/tnx3w/
 
+# Perez et al., 2022, 
+- id: pmid:35710303
+  image: https://learnmem.cshlp.org/content/29/7/F1.medium.gif
+  link: https://learnmem.cshlp.org/content/29/7/160
+  buttons:
+    - type: pdf
+      link: https://learnmem.cshlp.org/content/29/7/160.full.pdf+html
+
+
 # Soto ... Beevers, 2021, JAP
 - id: pmid:34472882
   image: https://pbs.twimg.com/media/FRnjtMVXEAA52qN?format=jpg&name=large
   buttons:
     - type: pdf
       link: https://osf.io/9gxmy/download/
+
+# Hays et al., 2020, FaReT
+- id: pmid:32519291
+  image: images/research/faret-faces.png
+  buttons:
+    - type: pdf
+      link: https://osf.io/jb53v/download/
+    - type: source
+      link: https://github.com/fsotoc/FaReT
+
+# Soto et al., 2020, JOV
+- id: pmid:33064122
+  image: https://pbs.twimg.com/media/ElHW4mXWMAAJpM6?format=png&name=small
+  link: https://doi.org/10.1167/jov.20.10.18
+  buttons:
+    - type: pdf
+      link: https://jov.arvojournals.org/arvo/content_public/journal/jov/938495/i1534-7362-20-10-18_1602851973.89623.pdf
+
+# Perez et al., QJEP, 2020
+- id: pmid:31931662
+  image: https://pbs.twimg.com/media/Dtx9WTQX4AI6LtW?format=jpg&name=small
+  buttons:
+    - type: pdf
+      link: https://osf.io/yx8m4/download/
+
+# Soto, 2019, beyond conceptual system
+- id: pmid:31381986
+  image: images/research/inhibited-elements.png
+  buttons:
+    - type: pdf
+      link: https://osf.io/mch9n/download/
+
+# Soto, 2019, APP
+- id: pmid:31152373
+  image: https://pbs.twimg.com/media/Dx0KIqmWoAAEhqk?format=jpg&name=medium
+  buttons:
+    - type: pdf
+      link: https://osf.io/uep7c/download/
+    - type: data
+      link: https://osf.io/dy23v/
+
+# Soto and Ashby, 2019, psych res
+- id: pmid:30806809
+  image: https://pbs.twimg.com/media/DXPaTfXXUAETh2K?format=jpg&name=small
+  buttons:
+    - type: pdf
+      link: https://osf.io/9ady5/download/
+
+# Soto et al., 2018, PLOS CB
+- id: pmid:30273337
+  link: https://doi.org/10.1371/journal.pcbi.1006470
+  image: images/research/neurogrt.png
+  buttons:
+    - type: pdf
+      link: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006470&type=printable
+    - type: data
+      link: https://osf.io/qrupw/?view_only=e9ed7b7dcbfb41ea8b302e84548d8d6a
+
+# Soto, 2018, JEPG
+- id: pmid:29698030
+  image: 
+  buttons:
+    - type: pdf
+      link: pdf/JEPG.17.s.pdf
+
+# Soto et al., 2017, grtools
+- id: pmc:PMC5440596
+  link: https://doi.org/10.3389/fpsyg.2017.00696
+  image: https://www.frontiersin.org/files/Articles/236046/fpsyg-08-00696-HTML/image_m/fpsyg-08-00696-g002.jpg
+  buttons:
+    - type: pdf
+      link: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00696/pdf
+    - type: source
+      link: https://github.com/fsotoc/grtools
+
+# Soto et al., 2016
+- id: pmid:27453156
+  buttons:
+    - type: pdf
+      link: pdf/NIMG.16.sba.pdf
+
+# Ashby Soto, 2016, grtneuro
+- title: The neural basis of general recognition theory
+  authors:
+  - Fabian A. Soto
+  - F. Gregory Ashby
+  publisher: "Mathematical models of perception and cognition, Volume II: A festschrift for James T. Townsend"
+  date: '2016-04-30'
+  link: https://www.taylorfrancis.com/chapters/edit/10.4324/9781315647265-1/neural-basis-general-recognition-theory-gregory-ashby-fabian-soto
+  buttons:
+  - type: pdf
+    link: pdf/GRT-neuro.pdf
+
+# Soto Wasserman, 2016, BP
+- id: pmid:26608549
+  date: '2016-02-01'
+  buttons:
+  - type: pdf
+    link: pdf/BP.15.sw.pdf
+
+# Soto et al., 2015, Cognit
+- id: pmid:26163820
+  buttons:
+  - type: pdf
+    link: pdf/COGN.15.sqppv.pdf
+
+# Soto Ashby, 2015, Cognit
+- id: pmid:25817370
+  buttons:
+  - type: pdf
+    link: pdf/COGN.15.sa.pdf
+
+# Soto et al., 2015, PBR
+- id: pmid:24841236
+  buttons:
+  - type: pdf
+    link: pdf/PBR.14.svma.pdf
+
+# Ashby Soto, 2015, GRT review
+- id: https://doi.org/10.1093/oxfordhb/9780199957996.013.2
+  buttons:
+  - type: pdf
+    link: pdf/GRT_SS.pdf
+
+# Soto Wasserman, 2014, frontiers neural circuits
+- id: pmid:25352784
+  link: https://doi.org/10.3389/fncir.2014.00122
+  buttons:
+  - type: pdf
+    link: https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2014.00122/pdf
+
+# Soto et al., 2014, psych review
+- id: pmid:25090430
+  buttons:
+  - type: pdf
+    link: pdf/PR.14.sgn.pdf
