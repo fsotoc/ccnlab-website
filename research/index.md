@@ -7,17 +7,23 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+{%
+  include button.html
+  text="Philosophy"
+  link="#our-philosophy"
+%}
 
-## Our Research Philosophy
+{%
+  include button.html
+  text="Research"
+  link="research/#our-research"
+%}
+
+
+## Our Philosophy
 
 ### Computational: A model-based research approach
-We believe that scientific progress is facilitated when we define our questions and hypotheses precisely, through the use of formal mathematical models. 
-
-Are different aspects of a face (for example, identity and expression) represented independently? Are face parts represented holistically? It depends on what one means by "independently" and "holistically." Formal theories from psychology and neuroscience can provide precise definitions for such ambiguous concepts, and show us the way to experimentally measure them.
-
-What are the mechanisms by which depression influences perception of face expressions? What mechanisms underlie the deficit to recognize faces from a different race? We can use models to formalize multiple hypotheses and decide between them.
-
-For us, the use of computational models is not a gimmick. We see it as necessary to move the field forward.
+We believe that scientific progress is facilitated when we define our questions and hypotheses precisely, through the use of formal mathematical models. Are different aspects of a face (for example, identity and expression) represented independently? Are face parts represented holistically? It depends on what one means by "independently" and "holistically." Formal theories from psychology and neuroscience can provide precise definitions for such ambiguous concepts, and show us the way to experimentally measure them. What are the mechanisms by which depression influences perception of face expressions? What mechanisms underlie the deficit to recognize faces from a different race? We can use models to formalize multiple hypotheses and decide between them. For us, the use of computational models is not a gimmick. We see it as necessary to move the field forward.
 
 ### Cognitive: A focus on complex adaptive behavior
 Our ultimate goal is to understand complex behavior that helps people adapt to their environment. We believe that this complexity arises from the interaction of multiple, simpler mechanisms of cognitive computation. For example, simple mechanisms that modify face representations (such as gain) can help explaining the influence of category learning on face perception, and the influence of depression in expression perception. Simple mechanisms of learning and representation can explain how people learn to group objects into categories.
