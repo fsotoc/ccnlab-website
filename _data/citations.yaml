@@ -34,8 +34,14 @@
   date: '2024-06-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38839717
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/eeg-theta-error.png
+  buttons:
+  - type: pdf
+    link: https://www.biorxiv.org/content/10.1101/2023.09.14.557662v1.full.pdf
+  - type: data
+    link: https://github.com/NDCLab/memory-for-error-mini
 - id: pmid:38557028
   title: Multidimensional signal detection modeling reveals Gestalt-like perceptual
     integration of face emotion and identity.
@@ -64,8 +70,14 @@
   date: '2024-02-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38336169
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/bp2024.png
+  buttons:
+  - type: pdf
+    link: https://labs.la.utexas.edu/beevers/files/2024/10/Soto-and-Beevers-2024-Perceptual-Observer-Modeling-Reveals-Likely-Mechanisms-of-Face-Expression-Recognition-Deficits-in-Depression.pdf
+  - type: highlight
+    link: https://www.biologicalpsychiatrycnni.org/article/S2451-9022(24)00114-9/abstract
 - id: doi:10.1007/s42113-024-00227-3
   title: Leveraging Psychophysics to Infer the Mechanisms of Encoding Change in Vision
   authors:
@@ -89,8 +101,12 @@
   date: '2023-07-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37473985
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/rw-influence.png
+  buttons:
+  - type: pdf
+    link: https://cicc.utalca.cl/site-assets/uploads/2023/07/soto2023.pdf
 - id: doi:10.1017/9781108902724.011
   title: Encoding Models in Neuroimaging
   authors:
@@ -142,6 +158,8 @@
   buttons:
   - type: pdf
     link: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1010819&type=printable
+  - type: data
+    link: https://osf.io/z2h9w/
 - id: pmid:35710303
   title: Subsampling of cues in associative learning.
   authors:
@@ -156,6 +174,9 @@
   plugin: sources.py
   file: sources.yaml
   image: https://learnmem.cshlp.org/content/29/7/F1.medium.gif
+  buttons:
+  - type: pdf
+    link: https://learnmem.cshlp.org/content/29/7/160.full.pdf+html
 - id: pmid:34472882
   title: A computational account of the mechanisms underlying face perception biases
     in depression.
@@ -186,8 +207,14 @@
   date: '2020-12-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32519291
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/faret-faces.png
+  buttons:
+  - type: pdf
+    link: https://osf.io/jb53v/download/
+  - type: source
+    link: https://github.com/fsotoc/FaReT
 - id: pmid:33064122
   title: Adaptation aftereffects reveal how categorization training changes the encoding
     of face identity.
@@ -197,10 +224,14 @@
   - Jefferson Salan
   publisher: Journal of vision
   date: '2020-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33064122
+  link: https://doi.org/10.1167/jov.20.10.18
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pbs.twimg.com/media/ElHW4mXWMAAJpM6?format=png&name=small
+  buttons:
+  - type: pdf
+    link: https://jov.arvojournals.org/arvo/content_public/journal/jov/938495/i1534-7362-20-10-18_1602851973.89623.pdf
 - id: pmid:31931662
   title: Evidence for a dissociation between causal beliefs and instrumental actions.
   authors:
@@ -210,8 +241,12 @@
   date: '2020-01-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31931662
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pbs.twimg.com/media/Dtx9WTQX4AI6LtW?format=jpg&name=small
+  buttons:
+  - type: pdf
+    link: https://osf.io/yx8m4/download/
 - id: pmid:31381986
   title: 'Beyond the "Conceptual Nervous System": Can computational cognitive neuroscience
     transform learning theory?'
@@ -221,8 +256,12 @@
   date: '2019-08-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31381986
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/inhibited-elements.png
+  buttons:
+  - type: pdf
+    link: https://osf.io/mch9n/download/
 - id: pmid:31152373
   title: Categorization training changes the visual representation of face identity.
   authors:
@@ -231,8 +270,14 @@
   date: '2019-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31152373
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pbs.twimg.com/media/Dx0KIqmWoAAEhqk?format=jpg&name=medium
+  buttons:
+  - type: pdf
+    link: https://osf.io/uep7c/download/
+  - type: data
+    link: https://osf.io/dy23v/
 - id: pmid:30806809
   title: Novel representations that support rule-based categorization are acquired
     on-the-fly during category learning.
@@ -243,8 +288,12 @@
   date: '2019-02-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30806809
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pbs.twimg.com/media/DXPaTfXXUAETh2K?format=jpg&name=small
+  buttons:
+  - type: pdf
+    link: https://osf.io/9ady5/download/
 - id: pmid:27894212
   title: 'Human instrumental performance in ratio and interval contingencies: A challenge
     for associative theory.'
@@ -270,10 +319,16 @@
   - F Gregory Ashby
   publisher: PLoS computational biology
   date: '2018-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30273337
+  link: https://doi.org/10.1371/journal.pcbi.1006470
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/neurogrt.png
+  buttons:
+  - type: pdf
+    link: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006470&type=printable
+  - type: data
+    link: https://osf.io/qrupw/?view_only=e9ed7b7dcbfb41ea8b302e84548d8d6a
 - id: pmid:30165807
   title: Exploring the Effect of Stimulus Similarity on the Summation Effect in Causal
     Learning.
@@ -296,8 +351,12 @@
   date: '2018-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29698030
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  buttons:
+  - type: pdf
+    link: pdf/JEPG.17.s.pdf
 - id: pmc:PMC5440596
   title: 'Testing Separability and Independence of Perceptual Dimensions with General
     Recognition Theory: A Tutorial and New R Package (<i>grtools</i>)'
@@ -308,10 +367,16 @@
   - F Gregory Ashby
   publisher: Frontiers in psychology
   date: '2017-05-23'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440596/
+  link: https://doi.org/10.3389/fpsyg.2017.00696
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/236046/fpsyg-08-00696-HTML/image_m/fpsyg-08-00696-g002.jpg
+  buttons:
+  - type: pdf
+    link: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00696/pdf
+  - type: source
+    link: https://github.com/fsotoc/grtools
 - id: pmid:27453156
   title: Dissociable changes in functional network topology underlie early category
     learning and development of automaticity.
@@ -323,8 +388,11 @@
   date: '2016-07-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27453156
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/NIMG.16.sba.pdf
 - id: pmid:26608549
   title: Promoting rotational-invariance in object recognition despite experience
     with only a single view.
@@ -332,11 +400,14 @@
   - Fabian A Soto
   - Edward A Wasserman
   publisher: Behavioural processes
-  date: '2015-11-28'
+  date: '2016-02-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26608549
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/BP.15.sw.pdf
 - id: pmid:26163820
   title: Why are some dimensions integral? Testing two hypotheses through causal learning
     experiments.
@@ -350,8 +421,11 @@
   date: '2015-07-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26163820
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/COGN.15.sqppv.pdf
 - id: pmid:25817370
   title: Categorization training increases the perceptual separability of novel dimensions.
   authors:
@@ -361,8 +435,11 @@
   date: '2015-03-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25817370
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/COGN.15.sa.pdf
 - id: pmid:25352784
   title: 'Mechanisms of object recognition: what we have learned from pigeons.'
   authors:
@@ -370,10 +447,13 @@
   - Edward A Wasserman
   publisher: Frontiers in neural circuits
   date: '2014-10-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25352784
+  link: https://doi.org/10.3389/fncir.2014.00122
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2014.00122/pdf
 - id: pmid:25090430
   title: Explaining compound generalization in associative and causal learning through
     rational principles of dimensional generalization.
@@ -385,8 +465,11 @@
   date: '2014-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25090430
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/PR.14.sgn.pdf
 - id: pmid:24841236
   title: 'General recognition theory with individual differences: a new method for
     examining perceptual and decisional interactions with an application to face perception.'
@@ -399,8 +482,11 @@
   date: '2015-02-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24841236
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/PBR.14.svma.pdf
 - id: pmid:23333700
   title: 'Brain activity across the development of automatic categorization: a comparison
     of categorization tasks using multi-voxel pattern analysis.'
@@ -584,3 +670,29 @@
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
+- title: The neural basis of general recognition theory
+  authors:
+  - Fabian A. Soto
+  - F. Gregory Ashby
+  publisher: 'Mathematical models of perception and cognition, Volume II: A festschrift
+    for James T. Townsend'
+  date: '2016-04-30'
+  link: https://www.taylorfrancis.com/chapters/edit/10.4324/9781315647265-1/neural-basis-general-recognition-theory-gregory-ashby-fabian-soto
+  buttons:
+  - type: pdf
+    link: pdf/GRT-neuro.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1093/oxfordhb/9780199957996.013.2
+  title: Multidimensional Signal Detection Theory
+  authors:
+  - F. Gregory Ashby
+  - Fabian A. Soto
+  publisher: Oxford University Press
+  date: '2015-12-10'
+  link: https://academic.oup.com/edited-volume/41261/chapter/350844881
+  buttons:
+  - type: pdf
+    link: pdf/GRT_SS.pdf
+  plugin: sources.py
+  file: sources.yaml
