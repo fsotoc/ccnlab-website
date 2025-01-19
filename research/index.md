@@ -10,7 +10,7 @@ nav:
 {%
   include button.html
   text="Philosophy"
-  link="#our-philosophy"
+  link="research/#our-philosophy"
 %}
 
 {%
