@@ -7,6 +7,8 @@
 # Hays & Soto, 2024. CBB
 - id: doi:10.1007/s42113-024-00227-3
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
+  tags:
+    - encoding model
 
 # Kia Hosseini et al., 2024, CABN errors
 - id: pmid:38839717
@@ -31,6 +33,8 @@
 # encoding models chapter
 - id: doi:10.1017/9781108902724.011
   image: https://pbs.twimg.com/media/FUl04epXsAMwzF1?format=png&name=small
+  tags:
+    - encoding model
   buttons:
     - type: pdf
       link: pdf/chapter12V8.pdf
