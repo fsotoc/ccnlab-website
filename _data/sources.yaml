@@ -5,8 +5,6 @@
 - id: issn:0120-0534
   remove: true
 
-- id: doi:10.4324/9781315647265-1
-  remove: true
 
 # add elements to orcid-generated entries
 
