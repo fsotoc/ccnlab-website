@@ -155,7 +155,7 @@
   image: images/research/perez-schedules.png
   publisher: Quarterly Journal of Experimental Psychology
   buttons:
-    - type:pdf
+    - type: pdf
       link: pdf/QJEP.19.pazaud.pdf
 
 # Soto et al., 2018, PLOS CB
@@ -321,3 +321,4 @@
   buttons:
   - type: pdf
     link: pdf/QJEP.09.svcw.pdf
+
