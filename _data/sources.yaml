@@ -2,6 +2,9 @@
 - id: doi:10.1101/254995
   remove: true
 
+- id: issn:0120-0534
+  remove: true
+
 # add elements to orcid-generated entries
 
 # Hays & Soto, 2024. CBB
@@ -145,6 +148,15 @@
     - type: pdf
       link: https://osf.io/9ady5/download/
 
+# Perez et al., 2019, QJEP
+- id: pmid:27894212
+  date: '2019'
+  image: images/research/perez-schedules.png
+  publisher: Quarterly Journal of Experimental Psychology
+  buttons:
+    - type:pdf
+      link: pdf/QJEP.19.pazaud.pdf
+
 # Soto et al., 2018, PLOS CB
 - id: pmid:30273337
   link: https://doi.org/10.1371/journal.pcbi.1006470
@@ -155,12 +167,19 @@
     - type: data
       link: https://osf.io/qrupw/?view_only=e9ed7b7dcbfb41ea8b302e84548d8d6a
 
-# Soto, 2018, JEPG
+# Soto, 2018, JEPG blocking
 - id: pmid:29698030
-  image: 
+  image: images/research/similarity-blocking.png
   buttons:
     - type: pdf
       link: pdf/JEPG.17.s.pdf
+
+# Perez et al., 2018, exp psych
+- id: pmid:30165807
+  image: images/research/summation-everywhere.png
+  buttons:
+    - type: pdf
+      link: pdf/EP.18.pss.pdf
 
 # Soto et al., 2017, grtools
 - id: pmc:PMC5440596
@@ -223,6 +242,7 @@
 
 # Soto Wasserman, 2014, frontiers neural circuits
 - id: pmid:25352784
+  image: images/research/evolutionary-atomism.jpg
   link: https://doi.org/10.3389/fncir.2014.00122
   buttons:
   - type: pdf
@@ -233,3 +253,70 @@
   buttons:
   - type: pdf
     link: pdf/PR.14.sgn.pdf
+
+# Soto et al., 2013, NIMG
+- id: pmid:23333700
+  buttons:
+  - type: pdf
+    link: pdf/NIMG.13.swha.pdf
+
+# Soto, Siow, Wasserman, 2012, V Res
+- id: pmid:22531015
+  buttons:
+  - type: pdf
+    link: pdf/VR.12.ssw.pdf
+
+# Soto, Wasserman, 2012, overshadowing
+- id: pmid:22823423
+  buttons: 
+  - type: pdf
+    link: pdf/JEPABP.12.sw.pdf
+
+# Soto Wasserman, 2012, CABN
+- id: pmid:22086545
+  buttons:
+  - type: pdf
+    link: pdf/CABN.12.sw.pdf
+
+# Soto Wasserman, 2011, JOV
+- id: pmid:21454855
+  link: https://doi.org/10.1167/11.3.24
+  buttons:
+  - type: pdf
+    link: https://jov.arvojournals.org/arvo/content_public/journal/jov/933483/jov-11-3-24.pdf
+
+# Soto Wasserman, 2010, Psych sci
+- id: pmid:20817911
+  buttons:
+  - type: pdf
+    link: pdf/PS.10.sw.pdf
+
+# Lazareva et al., 2010, BP
+- id: pmid:20600696
+  buttons:
+  - type: pdf
+    link: pdf/BP.10.lsw.pdf
+
+# Soto Wasserman, 2010, JEPABP
+- id: pmid:20384400
+  buttons:
+  - type: pdf
+    link: pdf/ABP.10.sw.pdf
+
+# Soto Wasserman, 2010, PR
+- id: pmid:20438230
+  buttons:
+  - type: pdf
+    link: pdf/PR.10.sw.pdf
+
+# Soto Wasserman, 2010, commentary
+- id: pmid:20824149
+  buttons:
+  - type: pdf
+    link: pdf/vol_5_commentary_sotowasserman.pdf
+
+# Soto et al., 2009, QJEP
+- id: pmid:19048450
+  buttons:
+  - type: pdf
+    link: pdf/QJEP.09.svcw.pdf
