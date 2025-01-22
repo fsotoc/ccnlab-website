@@ -304,12 +304,16 @@
   - "Fabi\xE1n A Soto"
   - Gonzalo P Urcelay
   - Anthony Dickinson
-  publisher: Quarterly journal of experimental psychology (2006)
-  date: '2018-01-01'
+  publisher: Quarterly Journal of Experimental Psychology
+  date: ''
   link: https://www.ncbi.nlm.nih.gov/pubmed/27894212
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/perez-schedules.png
+  buttons:
+  - type: pdf
+    link: pdf/QJEP.19.pazaud.pdf
 - id: pmid:30273337
   title: Linking signal detection theory and encoding models to reveal independent
     neural representations from neuroimaging data.
@@ -340,8 +344,12 @@
   date: '2018-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30165807
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/summation-everywhere.png
+  buttons:
+  - type: pdf
+    link: pdf/EP.18.pss.pdf
 - id: pmid:29698030
   title: 'Contemporary associative learning theory predicts failures to obtain blocking:
     Comment on Maes et al. (2016).'
@@ -353,7 +361,7 @@
   orcid: 0000-0002-1001-679X
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: images/research/similarity-blocking.png
   buttons:
   - type: pdf
     link: pdf/JEPG.17.s.pdf
@@ -451,6 +459,7 @@
   orcid: 0000-0002-1001-679X
   plugin: sources.py
   file: sources.yaml
+  image: images/research/evolutionary-atomism.jpg
   buttons:
   - type: pdf
     link: https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2014.00122/pdf
@@ -499,8 +508,11 @@
   date: '2013-01-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23333700
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/NIMG.13.swha.pdf
 - id: pmid:22823423
   title: 'A category-overshadowing effect in pigeons: support for the Common Elements
     Model of object categorization learning.'
@@ -511,8 +523,11 @@
   date: '2012-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22823423
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/JEPABP.12.sw.pdf
 - id: pmid:22531015
   title: View-invariance learning in object recognition by pigeons depends on error-driven
     associative learning processes.
@@ -524,8 +539,11 @@
   date: '2012-04-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22531015
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/VR.12.ssw.pdf
 - id: pmid:22086545
   title: 'Visual object categorization in birds and primates: integrating behavioral,
     neurobiological, and computational evidence within a "general process" framework.'
@@ -536,8 +554,11 @@
   date: '2012-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22086545
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/CABN.12.sw.pdf
 - id: doi:10.1007/978-1-4419-1428-6_426
   title: Categorical Learning in Pigeons
   authors:
@@ -557,10 +578,13 @@
   - Edward A Wasserman
   publisher: Journal of vision
   date: '2011-03-31'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21454855
+  link: https://doi.org/10.1167/11.3.24
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://jov.arvojournals.org/arvo/content_public/journal/jov/933483/jov-11-3-24.pdf
 - id: pmid:20600696
   title: Effect of between-category similarity on basic level superiority in pigeons.
   authors:
@@ -571,8 +595,11 @@
   date: '2010-06-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20600696
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/BP.10.lsw.pdf
 - id: pmid:20817911
   title: 'Missing the forest for the trees: object-discrimination learning blocks
     categorization learning.'
@@ -583,8 +610,11 @@
   date: '2010-09-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20817911
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/PS.10.sw.pdf
 - id: pmid:20438230
   title: 'Error-driven learning in visual categorization and object recognition: a
     common-elements model.'
@@ -595,8 +625,11 @@
   date: '2010-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20438230
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/PR.10.sw.pdf
 - id: pmid:20384400
   title: Integrality/separability of stimulus dimensions and multidimensional generalization
     in pigeons.
@@ -607,8 +640,11 @@
   date: '2010-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20384400
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/ABP.10.sw.pdf
 - id: pmid:20824149
   title: 'Comparative Vision Science: Seeing Eye to Eye?'
   authors:
@@ -618,8 +654,11 @@
   date: '2010-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20824149
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/vol_5_commentary_sotowasserman.pdf
 - id: pmid:19048450
   title: Generality of the summation effect in human causal learning.
   authors:
@@ -631,8 +670,11 @@
   date: '2008-12-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/19048450
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/QJEP.09.svcw.pdf
 - id: pmid:17474323
   title: Enhancement of Pavlovian conditioned immunosuppression in rats.
   authors:
@@ -657,16 +699,6 @@
   publisher: Biological research
   date: '2007-11-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18064349
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:0120-0534
-  title: ISSN 0120-0534 (Print) | Revista latinoamericana de psicologia | The ISSN
-    Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0120-0534
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
