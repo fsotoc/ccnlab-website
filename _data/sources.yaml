@@ -5,6 +5,9 @@
 - id: issn:0120-0534
   remove: true
 
+- id: doi:10.4324/9781315647265-1
+  remove: true
+
 # add elements to orcid-generated entries
 
 # Hays & Soto, 2024. CBB
@@ -198,7 +201,6 @@
       link: pdf/NIMG.16.sba.pdf
 
 # Ashby Soto, 2016, grtneuro
-- id: doi:10.4324/9781315647265
 - title: The neural basis of general recognition theory
   authors:
   - Fabian A. Soto
