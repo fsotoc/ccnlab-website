@@ -1,1 +1,1 @@
-Sitemap: http://ccnlab.fiu.edu/sitemap.xml
+Sitemap: https://ccnlab.fiu.edu/sitemap.xml
