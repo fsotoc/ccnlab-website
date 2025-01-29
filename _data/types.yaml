@@ -74,6 +74,11 @@ search:
   text: Search
   tooltip: Search
 
+cv:
+  icon: fa-solid fa-newspaper
+  text: CV
+  tooltip: CV
+
 # social media
 
 orcid:
