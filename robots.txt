@@ -1,1 +1,1 @@
-Sitemap: https://fsotoc.github.io/ccnlab-website/sitemap.xml
+Sitemap: http://ccnlab.fiu.edu/sitemap.xml
