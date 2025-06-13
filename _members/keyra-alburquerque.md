@@ -1,6 +1,6 @@
 ---
 name: Keyra Alburquerque
-image: images/members/keyra-alburquerque.jpg
+image: images/members/keyra-alburquerque.jpeg
 description: Undergrad Research Assistant
 role: undergrad
 links:
