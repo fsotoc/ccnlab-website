@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.5334/joc.442
+  title: Tip-of-the-Tongue and Feeling-of-Knowing Experiences Enhance Metacognitive
+    Sensitivity of Confidence Evaluation of Semantic Memory
+  authors:
+  - Ali Pournaghdali
+  - Bennett L. Schwartz
+  - Fabian A. Soto
+  publisher: Journal of Cognition
+  date: '2025-01-01'
+  link: https://doi.org/g9hcqm
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:38381300
   title: 'Face shape and motion are perceptually separable: Support for a revised
     model of face processing.'
@@ -21,9 +34,9 @@
     link: https://osf.io/ur3wm/files/osfstorage
   - type: preregistration
     link: https://osf.io/ud7jg
-- id: pmid:38839717
+- id: pmc:PMC12122262
   title: Toward a mechanistic understanding of the role of error monitoring and memory
-    in social anxiety.
+    in social anxiety
   authors:
   - Kianoosh Hosseini
   - Jeremy W Pettit
@@ -31,17 +44,24 @@
   - Aaron T Mattfeld
   - George A Buzzell
   publisher: Cognitive, affective & behavioral neuroscience
-  date: '2024-06-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38839717
+  date: '2024-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12122262/
   orcid: 0000-0002-1001-679X
-  plugin: sources.py
-  file: sources.yaml
-  image: images/research/eeg-theta-error.png
-  buttons:
-  - type: pdf
-    link: https://www.biorxiv.org/content/10.1101/2023.09.14.557662v1.full.pdf
-  - type: data
-    link: https://github.com/NDCLab/memory-for-error-mini
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4959797
+  title: A Detection Theory Analysis of the Relation of Tip-of-The-Tongue States and
+    Feeling-of-Knowing Judgments to Memory Recognition Sensitivity
+  authors:
+  - Ali Pournaghdali
+  - Bennett  L. Schwartz
+  - Fabian  A. Soto
+  publisher: Elsevier BV
+  date: '2024-01-01'
+  link: https://doi.org/g84h9g
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:38557028
   title: Multidimensional signal detection modeling reveals Gestalt-like perceptual
     integration of face emotion and identity.
@@ -90,6 +110,20 @@
   plugin: sources.py
   file: sources.yaml
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
+- id: doi:10.31234/osf.io/npwqt
+  title: Exploring the role of post-error processing in social anxiety across age
+  authors:
+  - Olivia Stibolt
+  - Fabian Soto
+  - Jeremy Pettit
+  - Yasmin Rey
+  - George Buzzell
+  publisher: Center for Open Science
+  date: '2024-04-25'
+  link: https://doi.org/g84h9h
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:37473985
   title: Why is the Rescorla-Wagner model so influential?
   authors:
@@ -160,6 +194,21 @@
     link: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1010819&type=printable
   - type: data
     link: https://osf.io/z2h9w/
+- id: pmid:37745333
+  title: Towards a mechanistic understanding of the role of error monitoring and memory
+    in social anxiety.
+  authors:
+  - Kianoosh Hosseini
+  - Jeremy W Pettit
+  - Fabian A Soto
+  - Aaron T Mattfeld
+  - George A Buzzell
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2023-09-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37745333
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:35710303
   title: Subsampling of cues in associative learning.
   authors:
@@ -448,6 +497,23 @@
   buttons:
   - type: pdf
     link: pdf/COGN.15.sa.pdf
+- id: pmid:24841236
+  title: 'General recognition theory with individual differences: a new method for
+    examining perceptual and decisional interactions with an application to face perception.'
+  authors:
+  - Fabian A Soto
+  - Lauren Vucovich
+  - Robert Musgrave
+  - F Gregory Ashby
+  publisher: Psychonomic bulletin & review
+  date: '2015-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24841236
+  orcid: 0000-0002-1001-679X
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: pdf/PBR.14.svma.pdf
 - id: pmid:25352784
   title: 'Mechanisms of object recognition: what we have learned from pigeons.'
   authors:
@@ -479,23 +545,6 @@
   buttons:
   - type: pdf
     link: pdf/PR.14.sgn.pdf
-- id: pmid:24841236
-  title: 'General recognition theory with individual differences: a new method for
-    examining perceptual and decisional interactions with an application to face perception.'
-  authors:
-  - Fabian A Soto
-  - Lauren Vucovich
-  - Robert Musgrave
-  - F Gregory Ashby
-  publisher: Psychonomic bulletin & review
-  date: '2015-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24841236
-  orcid: 0000-0002-1001-679X
-  plugin: sources.py
-  file: sources.yaml
-  buttons:
-  - type: pdf
-    link: pdf/PBR.14.svma.pdf
 - id: pmid:23333700
   title: 'Brain activity across the development of automatic categorization: a comparison
     of categorization tasks using multi-voxel pattern analysis.'
@@ -702,6 +751,66 @@
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.31234/osf.io/6bxza_v1
+  title: A Detection Theory Analysis of the Relation of Tip-of-the-Tongue States and
+    Feelingof-Knowing Judgments to Memory Recognition Sensitivity
+  authors:
+  - Ali Pournaghdali
+  - Bennett L Schwartz
+  - Fabian Soto
+  publisher: Center for Open Science
+  date: '2025-04-18'
+  link: https://doi.org/g9kkwz
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:40062691
+  title: Exploring the role of post-error processing in social anxiety across age.
+  authors:
+  - Olivia A Stibolt
+  - Fabian A Soto
+  - Jeremy W Pettit
+  - Yasmin Rey
+  - George A Buzzell
+  publisher: Journal of child psychology and psychiatry, and allied disciplines
+  date: '2025-03-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40062691
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/mbwu2
+  title: Tip-of-the-Tongue and Feeling-of-Knowing Experiences Enhance Metacognitive
+    Sensitivity of Confidence Evaluation of Semantic Memory
+  authors:
+  - Ali Pournaghdali
+  - Bennett L Schwartz
+  - Fabian Soto
+  publisher: Center for Open Science
+  date: '2024-09-12'
+  link: https://doi.org/g84h9j
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:38839717
+  title: Toward a mechanistic understanding of the role of error monitoring and memory
+    in social anxiety.
+  authors:
+  - Kianoosh Hosseini
+  - Jeremy W Pettit
+  - Fabian A Soto
+  - Aaron T Mattfeld
+  - George A Buzzell
+  publisher: Cognitive, affective & behavioral neuroscience
+  date: '2024-06-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38839717
+  image: images/research/eeg-theta-error.png
+  buttons:
+  - type: pdf
+    link: https://www.biorxiv.org/content/10.1101/2023.09.14.557662v1.full.pdf
+  - type: data
+    link: https://github.com/NDCLab/memory-for-error-mini
+  plugin: sources.py
+  file: sources.yaml
 - title: The neural basis of general recognition theory
   authors:
   - Fabian A. Soto
