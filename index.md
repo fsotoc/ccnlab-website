@@ -9,6 +9,15 @@ Welcome! We are the CCN Lab directed by Dr. Fabian Soto and located at Florida I
 
 {% include section.html %}
 
+{% include section.html background="images/background.jpg" dark=true %}
+
+
+We are always looking for highly motivated students with an interest in vision, learning, and/or computational modeling. If that's you, here's more information on how to apply.
+
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
+
+{% include section.html %}
+
 ## Highlights
 
 {% capture text %}
