@@ -722,19 +722,6 @@
   buttons:
   - type: pdf
     link: pdf/QJEP.09.svcw.pdf
-- id: pmid:17474323
-  title: Enhancement of Pavlovian conditioned immunosuppression in rats.
-  authors:
-  - Edgar H Vogel
-  - "Mar\xEDa E Castro"
-  - Paola A Solar
-  - "Fabi\xE1n A Soto"
-  publisher: Acta neurobiologiae experimentalis
-  date: '2007-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/17474323
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:18064349
   title: Stimulus specificity in the acquisition and extinction of conditioned taste
     aversion.
