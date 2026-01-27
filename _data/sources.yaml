@@ -8,6 +8,17 @@
 
 # add elements to orcid-generated entries
 
+# Martin et al., 2026, Sci Reports
+- id: doi:10.1038/s41598-025-33545-y
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-33545-y/MediaObjects/41598_2025_33545_Fig3_HTML.png
+  buttons:
+    - type: pdf
+      link: https://www.nature.com/articles/s41598-025-33545-y.pdf
+    - type: data
+      link: https://doi.org/10.17605/OSF.IO/5ZEXF
+    - type: preregistration
+      link: https://doi.org/10.17605/OSF.IO/EBX6S
+
 # Hays & Soto, 2024. CBB
 - id: doi:10.1007/s42113-024-00227-3
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
