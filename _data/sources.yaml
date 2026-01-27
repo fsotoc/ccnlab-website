@@ -30,7 +30,7 @@
 # Hays & Soto, 2024. CBB
 - id: doi:10.1007/s42113-024-00227-3
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
-- date: '2025'
+- date: '2025-01-01'
 
 # Kia Hosseini et al., 2024, CABN errors
 - id: pmid:38839717
@@ -171,7 +171,7 @@
 
 # Perez et al., 2019, QJEP
 - id: pmid:27894212
-  date: '2019'
+  date: '2019-01-01'
   authors:
   - "Omar D Perez"
   - Michael Rf Aitken
