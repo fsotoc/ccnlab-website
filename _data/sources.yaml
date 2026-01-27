@@ -10,7 +10,7 @@
 
 # Martin et al., 2026, Sci Reports
 - id: doi:10.1038/s41598-025-33545-y
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-33545-y/MediaObjects/41598_2025_33545_Fig3_HTML.png
+  image: images/research/martin-etal-2026.png
   buttons:
     - type: pdf
       link: https://www.nature.com/articles/s41598-025-33545-y.pdf
