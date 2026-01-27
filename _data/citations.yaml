@@ -13,7 +13,7 @@
   orcid: 0000-0002-1001-679X
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-33545-y/MediaObjects/41598_2025_33545_Fig3_HTML.png
+  image: images/research/martin-etal-2026.png
   buttons:
   - type: pdf
     link: https://www.nature.com/articles/s41598-025-33545-y.pdf
