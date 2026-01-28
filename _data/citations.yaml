@@ -62,8 +62,12 @@
   date: '2025-03-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40062691
   orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/research/stibolt-2025.png
+  buttons:
+  - type: pdf
+    link: https://www.ndclab.com/wp-content/uploads/2025/11/stibolt-et-al_2025.pdf
 - id: pmid:38381300
   title: 'Face shape and motion are perceptually separable: Support for a revised
     model of face processing.'
@@ -766,7 +770,7 @@
   image: images/research/eeg-theta-error.png
   buttons:
   - type: pdf
-    link: https://www.biorxiv.org/content/10.1101/2023.09.14.557662v1.full.pdf
+    link: https://www.ndclab.com/wp-content/uploads/2025/11/hosseini-et-al_2024.pdf
   - type: data
     link: https://github.com/NDCLab/memory-for-error-mini
   plugin: sources.py
