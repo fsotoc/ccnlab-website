@@ -27,17 +27,24 @@
     - type: pdf
       link: https://journalofcognition.org/articles/442/files/680f607c5c430.pdf
 
-# Hays & Soto, 2024. CBB
+# Hays & Soto, 2025. CBB
 - id: doi:10.1007/s42113-024-00227-3
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
 - date: '2025-01-01'
+
+# Stibolt et al., 2025
+- id: pmid:40062691
+  image: images/research/stibolt-2025.png
+  buttons:
+    - type: pdf
+      link: https://www.ndclab.com/wp-content/uploads/2025/11/stibolt-et-al_2025.pdf
 
 # Kia Hosseini et al., 2024, CABN errors
 - id: pmid:38839717
   image: images/research/eeg-theta-error.png
   buttons:
     - type: pdf
-      link: https://www.biorxiv.org/content/10.1101/2023.09.14.557662v1.full.pdf
+      link: https://www.ndclab.com/wp-content/uploads/2025/11/hosseini-et-al_2024.pdf
     - type: data
       link: https://github.com/NDCLab/memory-for-error-mini
 
