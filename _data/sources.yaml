@@ -82,7 +82,7 @@
   image: images/research/bp2024.png
   buttons:
     - type: pdf
-      link: https://labs.la.utexas.edu/beevers/files/2024/10/Soto-and-Beevers-2024-Perceptual-Observer-Modeling-Reveals-Likely-Mechanisms-of-Face-Expression-Recognition-Deficits-in-Depression.pdf
+      link: pdf/BPCNN.sb.2024.pdf
     - type: highlight
       link: https://www.biologicalpsychiatrycnni.org/article/S2451-9022(24)00114-9/abstract
 
