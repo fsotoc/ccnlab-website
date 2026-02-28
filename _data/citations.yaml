@@ -22,19 +22,6 @@
     link: https://osf.io/q2v68
   - type: preregistration
     link: https://osf.io/snrm4
-- id: pmid:41571766
-  title: Shape information used for face identity and expression recognition is highly
-    versatile and context specific.
-  authors:
-  - Emily Renae Martin
-  - Jason S Hays
-  - Fabian A Soto
-  publisher: Scientific reports
-  date: '2026-01-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/41571766
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/s42113-024-00227-3
   title: Leveraging Psychophysics to Infer the Mechanisms of Encoding Change in Vision
   authors:
