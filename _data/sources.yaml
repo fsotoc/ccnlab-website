@@ -5,6 +5,8 @@
 - id: issn:0120-0534
   remove: true
 
+- id: pmid:41571766
+  remove: true
 
 # add elements to orcid-generated entries
 
