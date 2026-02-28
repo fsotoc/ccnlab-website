@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.cortex.2026.02.006
+  title: Invariant versus context-specific representation of face shape and motion
+    in the face network
+  authors:
+  - S. Sanaz Hosseini
+  - Fabian A. Soto
+  publisher: Cortex
+  date: '2026-04-01'
+  link: https://doi.org/hbqz49
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:41571766
+  title: Shape information used for face identity and expression recognition is highly
+    versatile and context specific.
+  authors:
+  - Emily Renae Martin
+  - Jason S Hays
+  - Fabian A Soto
+  publisher: Scientific reports
+  date: '2026-01-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41571766
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s42113-024-00227-3
   title: Leveraging Psychophysics to Infer the Mechanisms of Encoding Change in Vision
   authors:
@@ -12,32 +37,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://pbs.twimg.com/media/EUiOF-0X0AMwfB_?format=png&name=small
-- id: doi:10.5334/joc.442
-  title: Tip-of-the-Tongue and Feeling-of-Knowing Experiences Enhance Metacognitive
-    Sensitivity of Confidence Evaluation of Semantic Memory
-  authors:
-  - Ali Pournaghdali
-  - Bennett L. Schwartz
-  - Fabian A. Soto
-  publisher: Journal of Cognition
-  date: '2025-01-01'
-  link: https://doi.org/g9hcqm
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/6bxza_v1
-  title: A Detection Theory Analysis of the Relation of Tip-of-the-Tongue States and
-    Feelingof-Knowing Judgments to Memory Recognition Sensitivity
-  authors:
-  - Ali Pournaghdali
-  - Bennett L Schwartz
-  - Fabian Soto
-  publisher: Center for Open Science
-  date: '2025-04-18'
-  link: https://doi.org/g9kkwz
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:40062691
   title: Exploring the role of post-error processing in social anxiety across age.
   authors:
@@ -49,6 +48,19 @@
   publisher: Journal of child psychology and psychiatry, and allied disciplines
   date: '2025-03-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40062691
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:40322618
+  title: Tip-of-the-Tongue and Feeling-of-Knowing Experiences Enhance Metacognitive
+    Sensitivity of Confidence Evaluation of Semantic Memory.
+  authors:
+  - Ali Pournaghdali
+  - Bennett L Schwartz
+  - Fabian A Soto
+  publisher: Journal of cognition
+  date: '2025-04-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40322618
   orcid: 0000-0002-1001-679X
   plugin: orcid.py
   file: orcid.yaml
@@ -124,19 +136,6 @@
     link: https://labs.la.utexas.edu/beevers/files/2024/10/Soto-and-Beevers-2024-Perceptual-Observer-Modeling-Reveals-Likely-Mechanisms-of-Face-Expression-Recognition-Deficits-in-Depression.pdf
   - type: highlight
     link: https://www.biologicalpsychiatrycnni.org/article/S2451-9022(24)00114-9/abstract
-- id: doi:10.31234/osf.io/mbwu2
-  title: Tip-of-the-Tongue and Feeling-of-Knowing Experiences Enhance Metacognitive
-    Sensitivity of Confidence Evaluation of Semantic Memory
-  authors:
-  - Ali Pournaghdali
-  - Bennett L Schwartz
-  - Fabian Soto
-  publisher: Center for Open Science
-  date: '2024-09-12'
-  link: https://doi.org/g84h9j
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:37473985
   title: Why is the Rescorla-Wagner model so influential?
   authors:
@@ -722,6 +721,19 @@
   buttons:
   - type: pdf
     link: pdf/QJEP.09.svcw.pdf
+- id: pmid:17474323
+  title: Enhancement of Pavlovian conditioned immunosuppression in rats.
+  authors:
+  - Edgar H Vogel
+  - "Mar\xEDa E Castro"
+  - Paola A Solar
+  - "Fabi\xE1n A Soto"
+  publisher: Acta neurobiologiae experimentalis
+  date: '2007-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17474323
+  orcid: 0000-0002-1001-679X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:18064349
   title: Stimulus specificity in the acquisition and extinction of conditioned taste
     aversion.
