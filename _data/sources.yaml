@@ -375,3 +375,6 @@
 
 - id: pmc:PMC12122262
   remove: true
+
+- id: pmid:40322618
+  remove: true
