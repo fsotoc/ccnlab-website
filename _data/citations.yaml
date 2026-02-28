@@ -41,7 +41,7 @@
   - Jason S. Hays
   - Fabian A. Soto
   publisher: Computational Brain &amp; Behavior
-  date: '2024-11-08'
+  date: '2025-01-01'
   link: https://doi.org/g8z7w4
   orcid: 0000-0002-1001-679X
   plugin: sources.py
@@ -796,9 +796,6 @@
   buttons:
   - type: pdf
     link: https://journalofcognition.org/articles/442/files/680f607c5c430.pdf
-  plugin: sources.py
-  file: sources.yaml
-- date: '2025-01-01'
   plugin: sources.py
   file: sources.yaml
 - id: pmid:38839717
