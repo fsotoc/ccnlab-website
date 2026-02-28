@@ -52,19 +52,6 @@
   buttons:
   - type: pdf
     link: https://www.ndclab.com/wp-content/uploads/2025/11/stibolt-et-al_2025.pdf
-- id: pmid:40322618
-  title: Tip-of-the-Tongue and Feeling-of-Knowing Experiences Enhance Metacognitive
-    Sensitivity of Confidence Evaluation of Semantic Memory.
-  authors:
-  - Ali Pournaghdali
-  - Bennett L Schwartz
-  - Fabian A Soto
-  publisher: Journal of cognition
-  date: '2025-04-28'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40322618
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:38381300
   title: 'Face shape and motion are perceptually separable: Support for a revised
     model of face processing.'
