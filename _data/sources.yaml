@@ -8,6 +8,19 @@
 
 # add elements to orcid-generated entries
 
+# Hosseini & Soto, 2026, Cortex
+- id: doi:10.1016/j.cortex.2026.02.006
+  image: images/research/hosseini-soto-2026.png
+  buttons:
+    - type: pdf
+      link: pdf/MS.hs.2026.Journal.pdf
+    - type: data
+      link: https://openneuro.org/datasets/ds007369
+    - type: data
+      link: https://osf.io/q2v68
+    - type: preregistration
+      link: https://osf.io/snrm4
+
 # Martin et al., 2026, Sci Reports
 - id: doi:10.1038/s41598-025-33545-y
   image: images/research/martin-etal-2026.png
