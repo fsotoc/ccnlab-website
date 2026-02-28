@@ -1,12 +1,3 @@
-# remove bad entries
-- id: doi:10.1101/254995
-  remove: true
-
-- id: issn:0120-0534
-  remove: true
-
-- id: pmid:41571766
-  remove: true
 
 # add elements to orcid-generated entries
 
@@ -371,3 +362,16 @@
   - type: pdf
     link: pdf/QJEP.09.svcw.pdf
 
+
+# remove bad entries
+- id: doi:10.1101/254995
+  remove: true
+
+- id: issn:0120-0534
+  remove: true
+
+- id: pmid:41571766
+  remove: true
+
+- id: pmc:PMC12122262
+  remove: true
