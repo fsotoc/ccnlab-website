@@ -86,21 +86,6 @@
     link: https://osf.io/ur3wm/files/osfstorage
   - type: preregistration
     link: https://osf.io/ud7jg
-- id: pmc:PMC12122262
-  title: Toward a mechanistic understanding of the role of error monitoring and memory
-    in social anxiety
-  authors:
-  - Kianoosh Hosseini
-  - Jeremy W Pettit
-  - Fabian A Soto
-  - Aaron T Mattfeld
-  - George A Buzzell
-  publisher: Cognitive, affective & behavioral neuroscience
-  date: '2024-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12122262/
-  orcid: 0000-0002-1001-679X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:38557028
   title: Multidimensional signal detection modeling reveals Gestalt-like perceptual
     integration of face emotion and identity.
